@@ -1,7 +1,7 @@
 # MTCDN
 Paper Ttile: Concatenated Deep Learning Framework for Multi-task Change Detection of Optical and SAR Images<br>
 
-Reference: 
+Reference: Z. Du, X. Li, J. Miao, Y. Huang, H. Shen and L. Zhang, “Concatenated Deep Learning Framework for Multi-task Change Detection of Optical and SAR Images,” IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing, vol. , pp. , , 2023.
 
 ##***Introduction***<br>
 
