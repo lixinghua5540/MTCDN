@@ -13,4 +13,4 @@ Optical and synthetic aperture radar (SAR) images provide complementary informat
 The implementation code of image translation and change detection are integrated as a whole: <br>
 after preprocess of the image, you can directly run the python file named train_MTCDN.py, the checkpoints will be saved in the fold named checkpoints. <br>
 As MTCDN are will trained, you can run test_MTCDN.py to get the prediction of change detection results and image translation results.<br>
-The Training data and testing data will be available soon.
+The raw training data and testing data are provided in the data file with CD label, California dataset, Shuguang dataset and Gloucester I dataset in this paper are provided here.
